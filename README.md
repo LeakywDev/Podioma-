@@ -1,2 +1,2 @@
 # Podioma
--# Meu proprio idioma, criei aqui no tedio kkk
+## Meu proprio idioma, criei aqui no tedio kkk
